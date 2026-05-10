@@ -42,14 +42,6 @@ Unlike a plain chatbot, this app **never answers from the LLM's memory**. Every 
 
 ---
 
-## 🌐 Live Demo
-
-🔗 **[your-app.vercel.app](https://gen-ai3.vercel.app/)**
-
-> Replace this link with your deployed Vercel URL after deployment.
-
----
-
 ## 🛠 Tech Stack
 
 | Layer | Tool | Why |
